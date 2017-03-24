@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\date_picker_dialog.xml",
+        "source": "C:\\Android\\archive\\app\\build\\intermediates\\exploded-aar\\com.github.flavienlaurent.datetimepicker\\library\\0.0.2\\res\\layout-land\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\time_picker_dialog.xml",
+        "source": "C:\\Android\\archive\\app\\build\\intermediates\\exploded-aar\\com.github.flavienlaurent.datetimepicker\\library\\0.0.2\\res\\layout-land\\time_picker_dialog.xml"
+    }
+]

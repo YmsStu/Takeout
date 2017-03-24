@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_pres.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\search_pres.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hani_ic_topbar_back_press.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\hani_ic_topbar_back_press.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_normal.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\search_normal.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cgt_chat_dialogbox_me_sel.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\cgt_chat_dialogbox_me_sel.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cgt_chat_dialogbox_otherparty_sel.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\cgt_chat_dialogbox_otherparty_sel.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cgt_chat_input_speech_nor.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\cgt_chat_input_speech_nor.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cgt_chat_input_keyboard_sel.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\cgt_chat_input_keyboard_sel.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading6.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\loading6.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_contacts_active.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_contacts_active.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_nearby_active.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_nearby_active.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msg_error.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\msg_error.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_guest_contact_empty.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\ic_guest_contact_empty.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading4.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\loading4.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\me_voice.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\me_voice.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cgt_chat_input_keyboard_nor.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\cgt_chat_input_keyboard_nor.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading3.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\loading3.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_personal_active.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_personal_active.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_guest_person_empty.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\ic_guest_person_empty.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_guest_messag_empty.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\ic_guest_messag_empty.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_conversation_active.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_conversation_active.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading2.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\loading2.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cgt_chat_input_plus_nor.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\cgt_chat_input_plus_nor.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cgt_chat_input_speech_sel.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\cgt_chat_input_speech_sel.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_login_weixin_normal.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\ic_login_weixin_normal.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_reg_camera.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\ic_reg_camera.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cgt_chat_input_plus_sel.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\cgt_chat_input_plus_sel.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add_friend_normal.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\add_friend_normal.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nodata.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\nodata.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cgt_chat_dialogbox_me_nor.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\cgt_chat_dialogbox_me_nor.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading1.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\loading1.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\other_voice.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\other_voice.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hani_ic_topbar_back_normal.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\hani_ic_topbar_back_normal.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add_friend_pres.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\add_friend_pres.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cgt_chat_dialogbox_otherparty_nor.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\cgt_chat_dialogbox_otherparty_nor.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading5.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\loading5.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cgt_chat_input_smilingface_nor.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\cgt_chat_input_smilingface_nor.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_nav_live_active.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_live_active.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\avatar3.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\avatar3.png"
+    },
+    {
+        "merged": "C:\\Android\\archive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cgt_chat_input_smilingface_sel.png",
+        "source": "C:\\Android\\archive\\app\\src\\main\\res\\drawable-hdpi\\cgt_chat_input_smilingface_sel.png"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "outputFile": "C:\\Android\\archive\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 71,
+                    "endOffset": 122
+                },
+                "from": {
+                    "file": "C:\\Android\\archive\\app\\build\\intermediates\\exploded-aar\\com.github.flavienlaurent.datetimepicker\\library\\0.0.2\\res\\values-v16\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 71,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 127,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "C:\\Android\\archive\\app\\build\\intermediates\\exploded-aar\\com.github.flavienlaurent.datetimepicker\\library\\0.0.2\\res\\values-v16\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "C:\\Android\\archive\\app\\build\\intermediates\\exploded-aar\\com.github.flavienlaurent.datetimepicker\\library\\0.0.2\\res\\values-v16\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 563,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "C:\\Android\\archive\\app\\build\\intermediates\\exploded-aar\\com.github.flavienlaurent.datetimepicker\\library\\0.0.2\\res\\values-v16\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 791
+                    }
+                }
+            }
+        ]
+    }
+]
